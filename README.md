@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdelrahman Elshershaby
 
-![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![Welcome GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 I'm a **Frontend Engineer** with almost **5 years of experience** building scalable, performant web applications using modern frontend technologies. I specialize in creating seamless user interfaces and delivering high-quality code. Passionate about continuous learning, I thrive in dynamic environments where I can contribute to impactful projects.
 
@@ -39,9 +39,9 @@ I'm a **Frontend Engineer** with almost **5 years of experience** building scala
 
 ## 📊 GitHub Stats
 
-![Abdelrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanElshershaby&show_icons=true&theme=radical)
+![Abdelrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanEs&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanElshershaby&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanEs&layout=compact&theme=radical)
 
 ---
 
