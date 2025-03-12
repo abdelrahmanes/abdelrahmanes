@@ -5,46 +5,44 @@ I'm a **Frontend Engineer** with almost **5 years of experience** building scala
 ## 🚀 Skills & Technologies
 
 ### Frontend
-- **React.js**, **Next.js**, **TypeScript**, **JavaScript (ES6+)**
-- **Redux**, **React Hook Form**, **Redux Toolkit Query**
-- **Tailwind CSS**, **Mantine**, **Material UI**, **Styled-Components**
-- **HTML5**, **CSS3**, **SCSS/SASS**
-- **Chart.js**, **ApexCharts**, **XY-Flow**
+- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) **React.js**
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) **Next.js**
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) **TypeScript**
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) **JavaScript (ES6+)**
+- ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) **Redux**
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) **Tailwind CSS**
 
 ### Tools & Platforms
-- **Vite**, **Webpack**, **TurboRepo**, **npm**, **Yarn**
-- **Docker**, **Sentry**
-- **Figma**, **Adobe XD**
-
-### Other Skills
-- Agile development practices
-- Collaboration with cross-functional teams
-- Strong debugging and troubleshooting skills
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) **Docker**
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) **Vite**
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) **Figma**
+- ![Sentry](https://img.shields.io/badge/Sentry-FB4226?logo=sentry&logoColor=white) **Sentry**
 
 ## 💼 Professional Experience
 
-- **Frontend Engineer** at **Innovadigits** (Feb 2023 - Present)
-  - Developed and maintained the **Fund Management System (FMS)**, enhancing user experience and improving performance.
+- 🏢 **Frontend Engineer** at **Innovadigits** (Feb 2023 - Present)  
+  - 🔹 Developed and maintained the **Fund Management System (FMS)**, enhancing user experience and improving performance.
 
-- **Frontend Engineer** at **Mshrai** (Oct 2023 - Jun 2024)
-  - Delivered key features in an agile environment, collaborating closely with backend developers and designers.
+- 🏢 **Frontend Engineer** at **Mshrai** (Oct 2023 - Jun 2024)  
+  - 🔹 Delivered key features in an agile environment, collaborating closely with backend developers and designers.
 
-- **Frontend Engineer** at **D3script** (Jun 2021 - Feb 2023)
-  - Focused on building responsive and scalable interfaces for diverse applications.
+- 🏢 **Frontend Engineer** at **D3script** (Jun 2021 - Feb 2023)  
+  - 🔹 Focused on building responsive and scalable interfaces for diverse applications.
 
 ## 🌟 Notable Projects
 
-- **FlowSys**: Integrated and enhanced a Vue.js-based workflow system cloned from **River Django**, successfully adapting it to meet project requirements.
-- **Aviation Workflow Application**: Contributed part-time to build and improve features for this internal system.
+- 🚀 **FlowSys**: Integrated and enhanced a Vue.js-based workflow system cloned from **River Django**, successfully adapting it to meet project requirements.
+- ✈️ **Aviation Workflow Application**: Contributed part-time to build and improve features for this internal system.
 
 ## 📫 Contact Me
 
-- **Email:** [abdelrahmanelshershaby@gmail.com](mailto:abdelrahmanelshershaby@gmail.com)
-- **LinkedIn:** [linkedin.com/in/abdelrahman-elshershaby](https://linkedin.com/in/abdelrahman-elshershaby)
+- 📧 **Email:** [abdelrahmanelshershaby@gmail.com](mailto:abdelrahmanelshershaby@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/abdelrahman-elshershaby](https://linkedin.com/in/abdelrahman-elshershaby)
 
 ## 🎯 Fun Facts
-- 💻 I enjoy learning about emerging frontend trends and frameworks.
+- 🤓 I enjoy learning about emerging frontend trends and frameworks.
 - 🧩 Problem-solving is my strong suit, and I love taking on coding challenges.
+- 🎮 In my free time, I play video games and explore new tech gadgets.
 
-Let's connect and collaborate on exciting projects!
+Let's connect and collaborate on exciting projects! 🚀
 
