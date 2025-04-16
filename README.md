@@ -70,21 +70,6 @@ I'm a **Frontend Engineer** with almost **5 years of experience** building scala
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
----
-
-## 💼 Professional Experience
-
-🏢 **Frontend Engineer** at **Innovadigits** (Feb 2023 - Present)  
-🔹 Developed and maintained the **Fund Management System (FMS)**, enhancing user experience and improving performance.
-
-🏢 **Frontend Engineer** at **Mshrai** (Oct 2023 - Jun 2024)  
-🔹 Delivered key features in an agile environment, collaborating closely with backend developers and designers.
-
-🏢 **Frontend Engineer** at **D3script** (Jun 2021 - Feb 2023)  
-🔹 Focused on building responsive and scalable interfaces for diverse applications.
-
-🏢 **Frontend Engineer** at **Aviation Workflow Application** (Part-time, 2024)  
-🔹 Contributed to improving features for this internal system.
 
 ---
 
